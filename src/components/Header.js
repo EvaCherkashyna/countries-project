@@ -11,7 +11,7 @@ const Wrapper = styled.div`
 display : flex;
 justify-content : space-between;
 align-items:center;
-padding: 2rem 0;
+padding: 2rem;
 
 `
 
@@ -26,7 +26,6 @@ const ModeSwitcher = styled.div`
 color:var(--color-text);
 font-size:var(--fs-sm);
 cursor:pointer;
-// font-weight:var(--fw-bold);
 text-transform:capitalize;
 `
 
