@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios';
 import './App.css';
-import { Header } from './components/Header';
-import { Main } from './components/Main';
+import { Header } from './components/Header/Header';
+import { Main } from './components/Main/Main';
 import {Routes, Route} from 'react-router-dom'
 import { HomePage } from './pages/HomePage';
 import { Details } from './pages/Details';

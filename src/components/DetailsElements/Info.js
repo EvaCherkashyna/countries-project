@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import axios from "axios";
 import { useState, useEffect } from "react";
-import { filterByCode } from "../config";
+import { filterByCode } from "../../config";
 import { useNavigate } from "react-router-dom";
 const Wrapper = styled.section`
   margin-top: 3rem;

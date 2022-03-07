@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios';
 import { ALL_COUNTRIES } from '../config';
-import { List } from '../components/List';
-import { Card } from '../components/Card';
-import { Controls } from '../components/Controls';
+import { List } from '../components/HomePageElements/List';
+import { Card } from '../components/HomePageElements/Card';
+import { Controls } from '../components/Filters/Controls';
 import { useNavigate } from 'react-router-dom'
 
 export const HomePage = ({ countries, setCountries }) => {

@@ -3,9 +3,9 @@ import React, { useState, useEffect } from 'react';
 import { IoArrowBack } from 'react-icons/io5';
 import { useNavigate } from 'react-router-dom';
 import { useParams } from 'react-router-dom'
-import { Button } from '../components/Button';
+import { Button } from '../components/DetailsElements/Button';
 import { searchByCountry } from '../config';
-import { Info } from '../components/Info';
+import { Info } from '../components/DetailsElements/Info';
 
 export const Details = ({nav}) => {
 
