@@ -37,7 +37,7 @@ If you are not a fan of the white theme, a dark theme is available in the projec
 ![](https://media3.giphy.com/media/pvb60juitaoo5gHUdW/giphy.gif?cid=790b7611c0bfe3af8ac4686b969cf90c9272a9d678f33500&rid=giphy.gif&ct=g)
 
 # Demo 
-You can see my demo: [demo](https://evacherkashyna.github.io/countries-project).
+You can see my demo: [demo](https://evacherkashyna.github.io/countries-project). (Click on words `Where is the world?`)
 
 # Download instructions
 ![photo-instruction](./readme-for/img3.png)
